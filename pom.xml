@@ -32,8 +32,9 @@
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 
-		<!-- Target WildFly version to produce a patch file -->
+		<!-- Target WildFly versions to produce patch files -->
 		<wildfly.version>11.0.0.Final</wildfly.version>
+		<wildfly-next.version>12.0.0.Alpha1-SNAPSHOT</wildfly-next.version>
 
 		<jpa-api.version>2.2</jpa-api.version>
 
